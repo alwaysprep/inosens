@@ -1,5 +1,3 @@
-# inosens
-
 ### A Kaggle project
 
 Installation
